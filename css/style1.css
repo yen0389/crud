@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+*{
+    font-family: 'League Gothic', sans-serif;
+}
+
+form{
+    font-family: 'Roboto', sans-serif;
+    }
+
+
+input{
+    color: blue;
+    border-bottom: 5px;
+
+}
+
+input[value="Enviar"] {
+    background: rgb(90, 102, 232);
+    font-size: large;
+}
+
+.principal{
+    align-items: center;
+    justify-content: center;
+    background-color: red ;
+    width: auto;
+    height: auto;
+}
+
+h2{
+    text-align: center;
+}
+
+.prin{
+    width: 200px;
+    height: 200px;
+    margin-top: auto;
+}
